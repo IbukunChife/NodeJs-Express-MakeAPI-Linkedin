@@ -1,6 +1,6 @@
 # NodeJs-Express-MakeAPI-Linkedin
 ---
-Nesta api foi desenvolvido um CRUD básico de Contatos usando Nodejs e Express com a Conexão ao Banco de Dado NOsql MongoDb. Foi usado o Mongoose uma biblioteca possibilitando a conexão com o Banco de Dado Mongodb e a Babel, a ferramenta que permite o uso da syntase do javascript E6 no desenvolvimento do código. Foi visto como deixar publico em arquivo usando do express.static.
+Nesta api foi desenvolvido um CRUD básico de Contatos usando Nodejs e Express com a Conexão ao Banco de Dado NOsql MongoDb. Foi usado o Mongoose uma biblioteca possibilitando a conexão com o Banco de Dado Mongodb e a Babel, a ferramenta que permite o uso da syntase do javascript E6 no desenvolvimento do código. Foi visto como deixar publico um arquivo usando a função express.static()
 
 
 ### Bibliotecas Instaladas
